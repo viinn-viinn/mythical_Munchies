@@ -15,7 +15,7 @@ A video presentation is also available: (https://youtu.be/nnnKj3cGDJw?list=PL_yP
 
 ## Objective
 
-Our objective for Mythical Munchies is to have a fully developed fullstack application where all users can view recipes from various fictional worlds. As an account holder, you have the benefit of saving your favorite recipes to your profile, as well as leaving reviews for recipes which all users can see. Each recipe card includes ingredients, special properties, and cooking instructions to achieve your desired mythical munchie.
+Our objective for Mythical Munchies was to have a fully developed fullstack application where all users can view recipes from various fictional worlds. As an account holder, you have the benefit of saving your favorite recipes to your profile, as well as leaving reviews for recipes which all users can see. Each recipe card includes ingredients, special properties, and cooking instructions to achieve your desired mythical munchie.
 
 # Main Functionality
 
